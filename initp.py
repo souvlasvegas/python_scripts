@@ -1,1 +1,1 @@
-print("Andreas Miltiadoys malakas")
+print("Andreas Miltiadoys is souvlasvegas")
